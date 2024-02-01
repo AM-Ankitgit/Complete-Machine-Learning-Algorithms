@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+ALL_aLGO.ipynb
+model
 # Distribution / packaging
 .Python
 build/
